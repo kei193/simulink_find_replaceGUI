@@ -1,5 +1,9 @@
 classdef(Sealed) FindGUI < handle
-    
+%%% FindGUI Class - GUI for Find and Replace in Simulink Model
+%
+% Start the GUI with FindGUI.start()
+%
+% or run the FindAndReplaceInModel.m script
     properties(Constant)
         guiPosition = [120 100 650 500];
         centerLine = 430;
