@@ -7,10 +7,13 @@ Find and Replace GUI for Simulink.
 ##### How to use
 
 1. Open a simulink model.
-2. \>\> FindGUI.start();
+2. \>\> FindAndReplaceModelGUI
 
 ##### Required Products
 MATLAB, Simulink
 
 #####  MATLAB version
-R2015a (R2014b probably work)
+R2019a
+(probably R2015b to R2018b)
+R2015a
+(probably R2014b)
